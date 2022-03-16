@@ -1,0 +1,6 @@
+.list-item {
+  background-color: lightyellow;
+  border: lightsalmon 0.5px solid;
+  padding: 10px 5px;
+  list-style: none;
+}
